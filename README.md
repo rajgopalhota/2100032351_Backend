@@ -1,6 +1,3 @@
-Certainly! Below is a sample `README.md` file that includes instructions, code snippets, and placeholders for screenshots.
-
-```markdown
 # Retail Store Database Queries
 
 This repository contains SQL scripts to create a simple retail store database, insert sample data, and perform various queries on the database. The queries cover common operations such as listing customers, finding orders, calculating total amounts spent by customers, and more.
